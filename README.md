@@ -7,7 +7,7 @@
   
    <img align="center" alt="excel" height="30" width="150" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
-  <img align="right" alt="gif"  src="https://drive.google.com/file/d/1BrlAT5XPfKPnU9h3S6Sg1p0z4igRezKx/view?usp=share_link" />  
+  <img align="right" height="80" width="80" alt="gif"  src="https://github.com/kimju03/readme/assets/135281724/9291d2c1-4cc8-4dcc-be79-d201e11f054a" />  
  
  
           
